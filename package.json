@@ -1,5 +1,5 @@
 {
-  "name": "react-paper-style",
+  "name": "origami-ui",
   "version": "1.0.0",
   "description": "a react component library that looks like paper",
   "main": "index.js",
@@ -10,17 +10,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nanak360/react-paper-style.git"
+    "url": "git+https://github.com/Nanak360/Origami-UI.git"
   },
   "keywords": [
-    "react"
+    "react",
+    "UI"
   ],
   "author": "Nanak Bandyopadhyay",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Nanak360/react-paper-style/issues"
+    "url": "https://github.com/Nanak360/Origami-UI/issues"
   },
-  "homepage": "https://github.com/Nanak360/react-paper-style#readme",
+  "homepage": "https://github.com/Nanak360/Origami-UI#readme",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
