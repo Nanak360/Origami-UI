@@ -44,6 +44,6 @@ Please follow the existing code style and conventions when making changes to the
 
 ## License
 
-By contributing to this project, you agree to license your contributions under the terms of the [MIT License](./LICENSE).
+By contributing to this project, you agree to license your contributions under the terms of the [MIT License](./LICENSE.md).
 
 We appreciate your contributions to Origami UI and look forward to working with you!
