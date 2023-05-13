@@ -1,5 +1,7 @@
 # Origami UI
-A React component library that looks like paper. This project is in its very early stages and there are currently no components available. We are looking for contributors to help build this library!
+A React component library that looks like paper 📄✂️🧑‍🎨
+
+Origami UI is an open-source project that aims to provide developers with a collection of beautiful and easy-to-use React components that resemble the look and feel of paper. This library is perfect for those who want to create UI designs that feel more organic and tactile.
 
 ## Getting Started
 1. Clone the repository
